@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on too [Nexon](https://github.com/Lucifer13072/ADAM)
 
-- 👨‍💻 All of my projects are available at [http://localhost:3000/pages/assets/styles_setup.css](http://localhost:3000/pages/assets/styles_setup.css)
+- 👨‍💻 All of my projects are available at [Click]([http://localhost:3000/pages/assets/styles_setup.css](https://github.com/Lucifer13072))
 
 - 📫 How to reach me **at2823743@gmail.com**
 
