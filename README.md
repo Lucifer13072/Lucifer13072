@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [Click](https://github.com/Lucifer13072)
 
+- 🪪 My site [tytyber.ru](https://tytyber.ru)
+
 - 📫 How to reach me **at2823743@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
