@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucifer</h1>
+<h1 align="center">Hi 👋, I'm Tytyber (read as tutuber)</h1>
 <h3 align="center">A developer from Russia. My main specialization is ML, but I can do many other things.</h3>
 
 - 🔭 I’m currently working on [ADAM](https://github.com/Lucifer13072/ADAM)
