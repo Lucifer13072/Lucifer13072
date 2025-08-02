@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ADAM](https://github.com/Lucifer13072/ADAM)
 
-- 🔭 I’m currently working on too [Nexon](https://github.com/Lucifer13072/ADAM)
+- 🔭 I’m currently working on too [Soul](https://github.com/Lucifer13072/soul)
 
 - 👨‍💻 All of my projects are available at [Click](https://github.com/Lucifer13072)
 
