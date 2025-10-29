@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tytyber (read as tutuber)</h1>
 <h3 align="center">A developer from Russia. My main specialization is ML, but I can do many other things.</h3>
 
-- 🔭 I’m currently working on [ADAM](https://github.com/Lucifer13072/ADAM)
+- 🔭 I’m currently working on [Tytyber.ru-2.0](https://github.com/Tytyber/Tytyber.ru-2.0)
 
-- 🔭 I’m currently working on too [Soul](https://github.com/Lucifer13072/soul)
+- 🔭 I’m currently working on too [Soul](https://github.com/Tytyber/soul)
 
-- 👨‍💻 All of my projects are available at [Click](https://github.com/Lucifer13072)
+- 👨‍💻 All of my projects are available at [Click](https://github.com/Tytyber)
 
 - 🪪 My site [tytyber.ru](https://tytyber.ru)
 
